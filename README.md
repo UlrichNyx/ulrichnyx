@@ -4,15 +4,6 @@ Hello there, my name is Filippos Kontogiannis and I have been coding since 2013.
 
 There are a lot of projects you can browse through here, so please take your time and take this with you .
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulrichnyx&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichnyx&layout=compact&theme=dark)
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -25,10 +16,21 @@ There are a lot of projects you can browse through here, so please take your tim
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
+
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <!--
 **UlrichNyx/ulrichnyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulrichnyx&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichnyx&layout=compact&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
