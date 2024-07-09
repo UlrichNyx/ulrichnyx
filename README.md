@@ -18,10 +18,10 @@ There are a lot of projects you can browse through here, so please take your tim
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-
+<div align="center>
 <img src="https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
+</div>
+
 
 
 <!-- Social badges section -->
