@@ -3,11 +3,11 @@
 Hello there, my name is Filippos Kontogiannis and I have been coding since 2013. 
 
 There are a lot of projects you can browse through here, so please take your time and take this with you
-    <img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png"/>.
+    <img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 32px; height: 32px;"/>.
 
 <p align="center">
   <a href="https://www.youtube.com/@ulrichnyx">
-    <img style="width: 20px; height: 20px;" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img  alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/@ulrichnyx">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/UlrichNyx?tab=repositories&sort=stargazers">
