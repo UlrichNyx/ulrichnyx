@@ -6,9 +6,9 @@ There are a lot of projects you can browse through here, so please take your tim
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulrichnyx&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ulrichnyx&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichnyx&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichnyx&layout=compact&theme=radical)
 <!--
 **UlrichNyx/ulrichnyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
