@@ -17,9 +17,7 @@ There are a lot of projects you can browse through here, so please take your tim
   <a href="https://www.twitch.tv/ulrichnyx">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
 
 
 <!-- Social badges section -->
