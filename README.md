@@ -1,4 +1,4 @@
-# May you find your worth in the waking world.
+# Welcome to my domain.
 
 Hello there, my name is Filippos Kontogiannis and I have been coding since 2013. 
 
