@@ -19,7 +19,8 @@ There are a lot of projects you can browse through here, so please take your tim
 </p>
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=dark)
 
 
