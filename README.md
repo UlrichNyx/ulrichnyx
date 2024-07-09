@@ -5,7 +5,7 @@ Hello there, my name is Filippos Kontogiannis and I have been coding since 2013.
 There are a lot of projects you can browse through here, so please take your time and take this with you .
 
 <p align="center">
-  <a href="https://www.youtube.com/c/UlrichNyx?sub_confirmation=1">
+  <a href="https://www.youtube.com/@ulrichnyx">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
