@@ -3,7 +3,7 @@
 Hello there, my name is Filippos Kontogiannis and I have been coding since 2013. 
 
 There are a lot of projects you can browse through here, so please take your time and take this with you
-    <img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 64px; height: 64px;"/>.
+    <img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 64px; height: 72x;"/>.
 
 <p align="center">
   <a href="https://www.youtube.com/@ulrichnyx">
