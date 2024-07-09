@@ -7,7 +7,7 @@ There are a lot of projects you can browse through here, so please take your tim
 
 <p align="center">
   <a href="https://www.youtube.com/@ulrichnyx">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img width="32px" height="32px" alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/@ulrichnyx">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/UlrichNyx?tab=repositories&sort=stargazers">
