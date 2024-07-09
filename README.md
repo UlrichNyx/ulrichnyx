@@ -3,7 +3,7 @@
 Hello there, my name is Filippos Kontogiannis and I have been coding since 2013. 
 
 There are a lot of projects you can browse through here, so please take your time and take this with you
-    <img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 64px; height: 72x;"/>.
+<img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 64px; height: 72x;"/>.
 
 <p align="center">
   <a href="https://www.youtube.com/@ulrichnyx">
@@ -17,6 +17,9 @@ There are a lot of projects you can browse through here, so please take your tim
   <a href="https://www.twitch.tv/ulrichnyx">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=radical)
 
 
