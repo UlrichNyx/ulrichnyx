@@ -1,5 +1,5 @@
 # Duty is heavy as a mountain, death is light as a feather.
-  <img alt="suicune" title="suicune" src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" style="width: 160px; height: 90px;"/>
+  <img alt="suicune" title="suicune" src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" style="width: 160px; height: 100%;"/>
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UlrichNyx?theme=dark)
 
