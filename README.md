@@ -1,6 +1,5 @@
-# Welcome to my domain.
 
-<img alt="master sword" title="master sword" src="https://i.imgur.com/CVkh0RF.png" style="width: 64px; height: 72x;"/>.
+<img alt="suicune" title="suicune" src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" style="width: 32px; height: 32x;"/>.
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UlrichNyx?theme=dark)
