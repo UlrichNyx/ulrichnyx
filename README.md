@@ -9,7 +9,7 @@
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-Profile-blue?logo=codecademy)](https://www.codecademy.com/profiles/Suykunn)
 
-
+[![Roadmap](https://img.shields.io/badge/Roadmap-Profile-blue?logo=roadmap)](https://roadmap.sh/game-developer?s=65fdacb86deb533d6e1217d6)
 
 
 <!-- Social badges section -->
