@@ -22,6 +22,7 @@ There are a lot of projects you can browse through here, so please take your tim
 <img src="https://github-readme-stats.vercel.app/api?username=ulrichnyx&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/UlrichNyx?theme=dark)
 
 
 <!-- Social badges section -->
