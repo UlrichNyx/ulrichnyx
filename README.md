@@ -5,6 +5,8 @@
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-Profile-blue?logo=codecademy)](https://www.codecademy.com/profiles/Suykunn)
 
+[![Hack The Box](https://www.hackthebox.com/badge/image/12345)](https://app.hackthebox.com/profile/2006829)
+
 
 
 <!-- Social badges section -->
