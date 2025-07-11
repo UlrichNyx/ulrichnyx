@@ -1,5 +1,6 @@
+# Duty is heavy as a mountain, death is light as a feather
 <div style="display: flex; align-items: center; gap: 10px;">
-  <span>Duty is heavy as a mountain, death is light as a feather.</span>
+  <span>.</span>
   <img alt="suicune" title="suicune" src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" style="width: 64px; height: 64px;"/>
 </div>
 
