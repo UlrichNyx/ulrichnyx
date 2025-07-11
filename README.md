@@ -3,6 +3,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UlrichNyx?theme=dark)
 
+- 🧠 [Codecademy](https://www.codecademy.com/profiles/Suykunn)
+
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
