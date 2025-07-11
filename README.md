@@ -8,8 +8,8 @@
 
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-Profile-blue?logo=codecademy)](https://www.codecademy.com/profiles/Suykunn)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Profile-blue?logo=roadmap&logoColor=white)](https://roadmap.sh/game-developer?s=65fdacb86deb533d6e1217d6)
 
-[![Roadmap](https://img.shields.io/badge/Roadmap-Profile-blue?logo=roadmap)](https://roadmap.sh/game-developer?s=65fdacb86deb533d6e1217d6)
 
 
 <!-- Social badges section -->
