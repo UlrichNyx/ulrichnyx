@@ -3,7 +3,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UlrichNyx?theme=dark)
 
-- 🧠 [Codecademy](https://www.codecademy.com/profiles/Suykunn)
+[![Codecademy](https://img.shields.io/badge/Codecademy-Profile-blue?logo=codecademy)](https://www.codecademy.com/profiles/Suykunn)
+
 
 
 <!-- Social badges section -->
